@@ -1,6 +1,6 @@
 # Bike Sharing Data Analysis Dashboard ✨
 
-![Dashboard Screenshot](demo-dashboard.png)
+![Dashboard Screenshot](/dashboard/demo-dashboard.png)
 
 ## Project Description
 This the repository for my final project in "Belajar Data Analisis dengan Python" course from Dicoding
